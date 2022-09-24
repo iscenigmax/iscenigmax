@@ -30,12 +30,8 @@ My goal is to meet the company's goals with enthusiasm, using the maximum availa
 
 
 
-### :skull: Technologies i use:
+### :part_alternation_mark: Some technologies i use:
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
-
-
-
-### :part_alternation_mark: Some technologies i use:
 
 <img src="https://activity-graph.herokuapp.com/graph?username=iscenigmax&theme=minimal" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iscenigmax&theme=vue" /><img src="https://github-readme-stats.vercel.app/api?username=iscenigmax" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscenigmax" />
