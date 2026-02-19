@@ -12,6 +12,8 @@ Certified PMP® and Six Sigma Green Belt, with postgraduate education in Busines
 
 Recognized for aligning business strategy with technology execution, strengthening operational performance, and leading multidisciplinary teams toward measurable growth and efficiency.
 
+In parallel, University Professor in Information Technology and Academic Content Author, contributing to the development of technology professionals through higher education and curriculum design.
+
 ---
 
 ## Leadership Focus
@@ -19,18 +21,23 @@ Recognized for aligning business strategy with technology execution, strengtheni
 - Technology strategy and digital transformation  
 - Operational excellence and enterprise optimization  
 - AI-driven innovation and intelligent automation  
-- End-to-end program and portfolio governance  
-- Scalable systems architecture and enterprise solutions  
-- Cross-functional leadership and performance management  
+- Program and portfolio governance  
+- Enterprise systems architecture  
+- Executive and cross-functional leadership  
 
 ---
 
-## Current Role
+## Professional Experience
 
 **Operations Manager**  
-OP Computer Business Inc.
+OP Computer Business Inc.  
+Leading technology strategy, automation initiatives, AI integration, and operational performance improvement in software and international trade environments.
 
-Leading organizational technology strategy, automation initiatives, AI integration, and operational performance improvement within international trade and software development environments.
+**University Professor – Information Technology**  
+Teaching undergraduate and postgraduate courses in IT-related disciplines, including software development, architecture, security, and emerging technologies.
+
+**Academic Content Author**  
+Development of structured academic materials, technical modules, and curricular content for higher education programs.
 
 ---
 
