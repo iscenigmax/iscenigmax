@@ -12,7 +12,7 @@ Certified PMP® and Six Sigma Green Belt, with postgraduate education in Busines
 
 Recognized for aligning business strategy with technology execution, strengthening operational performance, and leading multidisciplinary teams toward measurable growth and efficiency.
 
-In parallel, University Professor in Information Technology and Academic Content Author, contributing to the development of technology professionals through higher education and curriculum design.
+University Professor in Information Technology and Academic Content Author, contributing to higher education through technical instruction and curriculum development.
 
 ---
 
@@ -34,17 +34,18 @@ OP Computer Business Inc.
 Leading technology strategy, automation initiatives, AI integration, and operational performance improvement in software and international trade environments.
 
 **University Professor – Information Technology**  
-Teaching undergraduate and postgraduate courses in IT-related disciplines, including software development, architecture, security, and emerging technologies.
+Teaching undergraduate and postgraduate courses in software development, architecture, security, and emerging technologies.
 
 **Academic Content Author**  
-Development of structured academic materials, technical modules, and curricular content for higher education programs.
+Development of structured academic and technical materials for university programs.
 
 ---
 
-## Certifications
+## Certifications & Continuous Education
 
 - PMP® – Project Management Professional  
 - Six Sigma Green Belt  
+- Continuous professional development through specialized certifications and diplomas in technology, cloud computing, cybersecurity, software development, digital marketing, and business strategy from platforms such as Platzi, LinkedIn Learning, HubSpot, and Cisco.
 
 ---
 
