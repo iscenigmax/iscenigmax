@@ -1,37 +1,103 @@
-## Hi there 👋 I'm Ing. Carlos A. Sanchez :running:
+# Ing. Carlos Arturo Sánchez Rivera
 
-![This is an image](https://carlossanchezrivera.files.wordpress.com/2020/04/blog_background-2.jpg)
+## Systems Engineer | PMP® | Six Sigma Green Belt | Operations & Technology Leader
 
+![Banner](https://carlossanchezrivera.files.wordpress.com/2020/04/blog_background-2.jpg)
 
+---
 
-### :earth_americas: Find me around the web:
+## 🌎 Professional Profile
 
-- Writing in my [Blog](https://carlossanchezrivera.wordpress.com/)
-- Talking and sharing in [Twitter](https://twitter.com/iscenigmax)
-- Not everything is work my hobbies on [Instagram](https://www.instagram.com/iscenigmax/)
-- And know a little more about my work in [Linkedin](https://www.linkedin.com/in/iscenigmax/)
+Operations Manager and Systems Engineer with over 15 years of experience in software development, international trade technology, and high-performance team leadership.
 
+Certified PMP® and Six Sigma Green Belt with postgraduate studies in Business Administration, Human Resources, and currently pursuing a Doctorate in Technological Management and Innovation.
 
+Specialized in:
+- Technology-driven process optimization
+- AI integration in business operations
+- Software architecture and secure development
+- Strategic project management and operational excellence
 
-### :sunglasses: About me
+Focused on measurable results, productivity improvement, and innovation through data, automation, and emerging technologies.
 
-I'll tell you more about myself. I'm a computer systems engineer, currently a project manager at OP Computer Bussines Inc. I specialize in development under web technologies, I lean towards Django/PostgreSQL/VueJS/Bootstrap as I use.
+---
 
-My goal is to meet the company's goals with enthusiasm, using the maximum available resource and as well as implementing continuous improvement with new technologies, metrics and processes, being passionate about innovation.
+## 🏢 Current Role
 
-- :student: Now I am in the process of postgraduate MBA
-- :technologist: If you need support in your startup, count on me. I like to contribute without profit.
+**Operations Manager**  
+OP Computer Business Inc.  
+Software development solutions for international trade and customs operations.
 
+Leading:
+- Technology strategy and digital transformation
+- Process automation initiatives
+- AI-powered solutions for customs analysis and document processing
+- Cross-functional technical teams
 
+---
 
-### :hammer_and_wrench: My projects:
+## 🎓 Education
 
-:nerd_face: I keep building for my briefcase :pensive:
+- Doctorate in Technological Management and Innovation (In Progress – 2026)
+- Postgraduate in Human Resources Administration
+- Postgraduate in Business Administration (Quality & Productivity)
+- B.S. in Computer Systems Engineering
 
+---
 
+## 📜 Certifications
 
-### :part_alternation_mark: Some technologies i use:
+- PMP® – Project Management Professional (2022)
+- Six Sigma Green Belt – SigmaPro Americas (2023)
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
+---
 
-<img src="https://activity-graph.herokuapp.com/graph?username=iscenigmax&theme=minimal" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iscenigmax&theme=vue" /><img src="https://github-readme-stats.vercel.app/api?username=iscenigmax" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscenigmax" />
+## 🚀 Key Projects
+
+### AI for International Trade
+Implementation of AI services for:
+- Customs document interpretation
+- Product identification
+- Automated decision support  
+Technologies: Python, Azure, OpenAI, Tesseract
+
+### Business Process Automation
+Automation of operational workflows using:
+- Python scripting
+- Linux/Ubuntu environments
+- Enterprise integrations
+
+---
+
+## 🧠 Technical Stack
+
+**Backend:** Python, Django, FastAPI, .NET  
+**Frontend:** Vue.js, JavaScript, Bootstrap  
+**Database:** PostgreSQL  
+**Cloud & DevOps:** Azure  
+**Methodologies:** PMP, Six Sigma, Agile  
+**AI & Automation:** OpenAI, OCR, Process Automation
+
+---
+
+## 📚 Teaching & Mentoring
+
+Experience delivering training in:
+- MVC Frameworks
+- Secure Software Development
+- Software Architecture
+- Risk & Requirements Analysis
+- Generative AI for Software Development
+
+---
+
+## 🌐 Connect
+
+- Blog: https://carlossanchezrivera.wordpress.com/
+- LinkedIn: https://www.linkedin.com/in/iscenigmax/
+- Twitter/X: https://twitter.com/iscenigmax
+- Instagram: https://www.instagram.com/iscenigmax/
+
+---
+
+> “Technology with strategy creates sustainable impact.”
