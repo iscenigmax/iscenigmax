@@ -1,24 +1,27 @@
 # Ing. Carlos Arturo Sánchez Rivera
 
-## Systems Engineer | PMP® | Six Sigma Green Belt | Operations & Technology Leader
+## Technology & Operations Executive | PMP® | Six Sigma Green Belt
 
 ---
 
-## Professional Profile
+## Executive Profile
 
-Technology and Operations Leader with 15+ years of experience driving software development initiatives, operational efficiency, and digital transformation in international trade environments.
+Senior Technology and Operations Leader with 15+ years of experience delivering strategic technology initiatives, operational transformation, and scalable digital solutions.
 
-Certified PMP® and Six Sigma Green Belt with postgraduate education in Business Administration and currently pursuing a Doctorate in Technological Management and Innovation.
+Certified PMP® and Six Sigma Green Belt, with postgraduate education in Business Administration and doctoral studies in Technological Management and Innovation.
 
-Proven ability to align business strategy with scalable technology solutions, optimize processes, and lead high-performance technical teams focused on measurable results.
+Recognized for aligning business strategy with technology execution, strengthening operational performance, and leading multidisciplinary teams toward measurable growth and efficiency.
 
-Core expertise:
+---
 
-- Strategic project and portfolio management  
-- Operational excellence and process optimization  
-- AI integration for business automation  
+## Leadership Focus
+
 - Technology strategy and digital transformation  
-- Secure and scalable software architecture  
+- Operational excellence and enterprise optimization  
+- AI-driven innovation and intelligent automation  
+- End-to-end program and portfolio governance  
+- Scalable systems architecture and enterprise solutions  
+- Cross-functional leadership and performance management  
 
 ---
 
@@ -27,28 +30,7 @@ Core expertise:
 **Operations Manager**  
 OP Computer Business Inc.
 
-Responsible for:
-
-- Defining and executing technology strategy  
-- Leading digital transformation initiatives  
-- Implementing AI-driven solutions for customs and trade operations  
-- Optimizing operational workflows through automation  
-- Managing cross-functional engineering teams  
-
----
-
-## Key Initiatives
-
-### AI-Driven Trade Solutions
-Design and implementation of AI services for:
-- Document interpretation  
-- Product classification  
-- Automated decision support  
-
-Technologies: Python, Azure, OpenAI, OCR technologies.
-
-### Enterprise Process Automation
-End-to-end automation of operational processes through scripting, system integrations, and infrastructure optimization.
+Leading organizational technology strategy, automation initiatives, AI integration, and operational performance improvement within international trade and software development environments.
 
 ---
 
@@ -67,17 +49,6 @@ End-to-end automation of operational processes through scripting, system integra
 
 ---
 
-## Technical Expertise
-
-**Backend:** Python, Django, FastAPI, .NET  
-**Frontend:** Vue.js, JavaScript  
-**Database:** PostgreSQL  
-**Cloud:** Azure  
-**Methodologies:** PMI, Six Sigma, Agile  
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/iscenigmax/
-- Blog: https://carlossanchezrivera.wordpress.com/
