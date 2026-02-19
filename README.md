@@ -2,102 +2,82 @@
 
 ## Systems Engineer | PMP® | Six Sigma Green Belt | Operations & Technology Leader
 
-![Banner](https://carlossanchezrivera.files.wordpress.com/2020/04/blog_background-2.jpg)
+---
+
+## Professional Profile
+
+Technology and Operations Leader with 15+ years of experience driving software development initiatives, operational efficiency, and digital transformation in international trade environments.
+
+Certified PMP® and Six Sigma Green Belt with postgraduate education in Business Administration and currently pursuing a Doctorate in Technological Management and Innovation.
+
+Proven ability to align business strategy with scalable technology solutions, optimize processes, and lead high-performance technical teams focused on measurable results.
+
+Core expertise:
+
+- Strategic project and portfolio management  
+- Operational excellence and process optimization  
+- AI integration for business automation  
+- Technology strategy and digital transformation  
+- Secure and scalable software architecture  
 
 ---
 
-## 🌎 Professional Profile
-
-Operations Manager and Systems Engineer with over 15 years of experience in software development, international trade technology, and high-performance team leadership.
-
-Certified PMP® and Six Sigma Green Belt with postgraduate studies in Business Administration, Human Resources, and currently pursuing a Doctorate in Technological Management and Innovation.
-
-Specialized in:
-- Technology-driven process optimization
-- AI integration in business operations
-- Software architecture and secure development
-- Strategic project management and operational excellence
-
-Focused on measurable results, productivity improvement, and innovation through data, automation, and emerging technologies.
-
----
-
-## 🏢 Current Role
+## Current Role
 
 **Operations Manager**  
-OP Computer Business Inc.  
-Software development solutions for international trade and customs operations.
+OP Computer Business Inc.
 
-Leading:
-- Technology strategy and digital transformation
-- Process automation initiatives
-- AI-powered solutions for customs analysis and document processing
-- Cross-functional technical teams
+Responsible for:
 
----
-
-## 🎓 Education
-
-- Doctorate in Technological Management and Innovation (In Progress – 2026)
-- Postgraduate in Human Resources Administration
-- Postgraduate in Business Administration (Quality & Productivity)
-- B.S. in Computer Systems Engineering
+- Defining and executing technology strategy  
+- Leading digital transformation initiatives  
+- Implementing AI-driven solutions for customs and trade operations  
+- Optimizing operational workflows through automation  
+- Managing cross-functional engineering teams  
 
 ---
 
-## 📜 Certifications
+## Key Initiatives
 
-- PMP® – Project Management Professional (2022)
-- Six Sigma Green Belt – SigmaPro Americas (2023)
-
----
-
-## 🚀 Key Projects
-
-### AI for International Trade
-Implementation of AI services for:
-- Customs document interpretation
-- Product identification
+### AI-Driven Trade Solutions
+Design and implementation of AI services for:
+- Document interpretation  
+- Product classification  
 - Automated decision support  
-Technologies: Python, Azure, OpenAI, Tesseract
 
-### Business Process Automation
-Automation of operational workflows using:
-- Python scripting
-- Linux/Ubuntu environments
-- Enterprise integrations
+Technologies: Python, Azure, OpenAI, OCR technologies.
+
+### Enterprise Process Automation
+End-to-end automation of operational processes through scripting, system integrations, and infrastructure optimization.
 
 ---
 
-## 🧠 Technical Stack
+## Certifications
+
+- PMP® – Project Management Professional  
+- Six Sigma Green Belt  
+
+---
+
+## Education
+
+- Doctorate in Technological Management and Innovation (In Progress)  
+- Postgraduate Studies in Business Administration  
+- B.S. in Computer Systems Engineering  
+
+---
+
+## Technical Expertise
 
 **Backend:** Python, Django, FastAPI, .NET  
-**Frontend:** Vue.js, JavaScript, Bootstrap  
+**Frontend:** Vue.js, JavaScript  
 **Database:** PostgreSQL  
-**Cloud & DevOps:** Azure  
-**Methodologies:** PMP, Six Sigma, Agile  
-**AI & Automation:** OpenAI, OCR, Process Automation
+**Cloud:** Azure  
+**Methodologies:** PMI, Six Sigma, Agile  
 
 ---
 
-## 📚 Teaching & Mentoring
+## Contact
 
-Experience delivering training in:
-- MVC Frameworks
-- Secure Software Development
-- Software Architecture
-- Risk & Requirements Analysis
-- Generative AI for Software Development
-
----
-
-## 🌐 Connect
-
-- Blog: https://carlossanchezrivera.wordpress.com/
 - LinkedIn: https://www.linkedin.com/in/iscenigmax/
-- Twitter/X: https://twitter.com/iscenigmax
-- Instagram: https://www.instagram.com/iscenigmax/
-
----
-
-> “Technology with strategy creates sustainable impact.”
+- Blog: https://carlossanchezrivera.wordpress.com/
