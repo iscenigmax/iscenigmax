@@ -1,88 +1,88 @@
 # Ing. Carlos Arturo Sánchez Rivera
 
-## Technology & Operations Executive | PMP® | Six Sigma Green Belt
+## Ejecutivo en Tecnología y Operaciones | PMP® | Six Sigma Green Belt
 
 ---
 
-## Executive Profile
+## Perfil Ejecutivo
 
-Senior Technology and Operations Leader with 15+ years of experience delivering strategic technology initiatives, operational transformation, and scalable digital solutions.
+Líder Senior en Tecnología y Operaciones con más de 15 años de experiencia impulsando iniciativas tecnológicas estratégicas, transformación operativa y soluciones digitales escalables.
 
-Certified PMP® and Six Sigma Green Belt, with postgraduate education in Business Administration and doctoral studies in Technological Management and Innovation.
+Certificado PMP® y Six Sigma Green Belt, con estudios de posgrado en Administración de Empresas y doctorado en Gestión Tecnológica e Innovación.
 
-Recognized for aligning business strategy with technology execution, strengthening operational performance, and leading multidisciplinary teams toward measurable growth and efficiency.
+Reconocido por alinear la estrategia empresarial con la ejecución tecnológica, fortalecer el desempeño operativo y liderar equipos multidisciplinarios hacia un crecimiento y eficiencia medibles.
 
-University Professor in Information Technology and Academic Content Author, contributing to higher education through technical instruction and curriculum development.
-
----
-
-## Value Proposition
-
-I help organizations transform strategy into measurable operational results through:
-
-- Structured project governance  
-- Intelligent automation and AI integration  
-- Process optimization and performance metrics  
-- Scalable and secure technology architecture  
-- Executive-level decision support through data  
+Profesor Universitario en Tecnologías de la Información y Autor de Contenido Académico, contribuyendo a la educación superior mediante instrucción técnica y desarrollo curricular.
 
 ---
 
-## Leadership Focus
+## Propuesta de Valor
 
-- Technology strategy and digital transformation  
-- Operational excellence and enterprise optimization  
-- AI-driven innovation and intelligent automation  
-- Program and portfolio governance  
-- Enterprise systems architecture  
-- Executive and cross-functional leadership  
+Ayudo a las organizaciones a transformar la estrategia en resultados operativos medibles mediante:
 
----
-
-## Professional Experience
-
-**Operations Manager**  
-OP Computer Business Inc.  
-
-Leading technology strategy, automation initiatives, AI integration, and operational performance improvement in software and international trade environments.
-
-**University Professor – Information Technology**  
-
-Teaching undergraduate and postgraduate courses in software development, architecture, security, and emerging technologies.
-
-**Academic Content Author**  
-
-Development of structured academic and technical materials for university programs.
+* Gobernanza estructurada de proyectos
+* Automatización inteligente e integración de IA
+* Optimización de procesos y métricas de desempeño
+* Arquitectura tecnológica escalable y segura
+* Soporte para la toma de decisiones a nivel ejecutivo basado en datos
 
 ---
 
-## Strategic Collaboration
+## Enfoque de Liderazgo
 
-Open to collaborating with:
-
-- Executive teams pursuing digital transformation  
-- Organizations seeking operational efficiency and scalability  
-- Startups requiring structured technology leadership  
-- Companies integrating AI into core business processes  
-
----
-
-## Certifications & Continuous Education
-
-- PMP® – Project Management Professional  
-- Six Sigma Green Belt  
-- Ongoing specialization through certifications and diplomas in technology, cloud, cybersecurity, software engineering, digital strategy, and business innovation (Platzi, LinkedIn Learning, HubSpot, Cisco).
+* Estrategia tecnológica y transformación digital
+* Excelencia operativa y optimización empresarial
+* Innovación impulsada por IA y automatización inteligente
+* Gobernanza de programas y portafolios
+* Arquitectura de sistemas empresariales
+* Liderazgo ejecutivo y multifuncional
 
 ---
 
-## Education
+## Experiencia Profesional
 
-- Doctorate in Technological Management and Innovation (In Progress)  
-- Postgraduate Studies in Business Administration  
-- B.S. in Computer Systems Engineering  
+**Gerente de Operaciones**
+OP Computer Business Inc.
+
+Liderando la estrategia tecnológica, iniciativas de automatización, integración de IA y mejora del desempeño operativo en entornos de software y comercio internacional.
+
+**Profesor Universitario – Tecnologías de la Información**
+
+Impartiendo cursos de licenciatura y posgrado en desarrollo de software, arquitectura, seguridad y tecnologías emergentes.
+
+**Autor de Contenido Académico**
+
+Desarrollo de materiales académicos y técnicos estructurados para programas universitarios.
 
 ---
 
-## Contact
+## Colaboración Estratégica
 
-- LinkedIn: https://www.linkedin.com/in/iscenigmax/
+Abierto a colaborar con:
+
+* Equipos ejecutivos que impulsen transformación digital
+* Organizaciones que busquen eficiencia operativa y escalabilidad
+* Startups que requieran liderazgo tecnológico estructurado
+* Empresas que integren IA en procesos centrales del negocio
+
+---
+
+## Certificaciones y Educación Continua
+
+* PMP® – Project Management Professional
+* Six Sigma Green Belt
+* Especialización continua mediante certificaciones y diplomados en tecnología, nube, ciberseguridad, ingeniería de software, estrategia digital e innovación empresarial (Platzi, LinkedIn Learning, HubSpot, Cisco).
+
+---
+
+## Educación
+
+* Doctorado en Gestión Tecnológica e Innovación (En curso)
+* Estudios de Posgrado en Administración de Empresas
+* Ingeniería en Sistemas Computacionales
+
+---
+
+## Contacto
+
+* LinkedIn: [https://www.linkedin.com/in/iscenigmax/](https://www.linkedin.com/in/iscenigmax/)
