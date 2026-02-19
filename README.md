@@ -16,6 +16,18 @@ University Professor in Information Technology and Academic Content Author, cont
 
 ---
 
+## Value Proposition
+
+I help organizations transform strategy into measurable operational results through:
+
+- Structured project governance  
+- Intelligent automation and AI integration  
+- Process optimization and performance metrics  
+- Scalable and secure technology architecture  
+- Executive-level decision support through data  
+
+---
+
 ## Leadership Focus
 
 - Technology strategy and digital transformation  
@@ -31,13 +43,27 @@ University Professor in Information Technology and Academic Content Author, cont
 
 **Operations Manager**  
 OP Computer Business Inc.  
+
 Leading technology strategy, automation initiatives, AI integration, and operational performance improvement in software and international trade environments.
 
 **University Professor – Information Technology**  
+
 Teaching undergraduate and postgraduate courses in software development, architecture, security, and emerging technologies.
 
 **Academic Content Author**  
+
 Development of structured academic and technical materials for university programs.
+
+---
+
+## Strategic Collaboration
+
+Open to collaborating with:
+
+- Executive teams pursuing digital transformation  
+- Organizations seeking operational efficiency and scalability  
+- Startups requiring structured technology leadership  
+- Companies integrating AI into core business processes  
 
 ---
 
@@ -45,7 +71,7 @@ Development of structured academic and technical materials for university progra
 
 - PMP® – Project Management Professional  
 - Six Sigma Green Belt  
-- Continuous professional development through specialized certifications and diplomas in technology, cloud computing, cybersecurity, software development, digital marketing, and business strategy from platforms such as Platzi, LinkedIn Learning, HubSpot, and Cisco.
+- Ongoing specialization through certifications and diplomas in technology, cloud, cybersecurity, software engineering, digital strategy, and business innovation (Platzi, LinkedIn Learning, HubSpot, Cisco).
 
 ---
 
