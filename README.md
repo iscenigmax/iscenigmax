@@ -1,8 +1,8 @@
 # Carlos A. Sanchez
 
-Technical operations leader, IT professor, and builder of practical software solutions.
+Technical operations leader and IT professor focused on automation, software delivery, and practical technology solutions.
 
-I work at the intersection of operations, education, and technology. My focus is on building tools, improving processes, and applying software in ways that create measurable value for teams, students, and real-world projects.
+I work at the intersection of operations, education, and software development, building tools and improving processes that create measurable value for teams, students, and real-world projects.
 
 ## Professional focus
 - Technical operations and process improvement
