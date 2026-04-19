@@ -1,31 +1,27 @@
-# Hi, I'm Carlos A. Sanchez
+# Carlos A. Sanchez
 
-I am a technical operations leader, IT professor, and software builder focused on creating practical solutions with Python, automation, and web technologies.
+Technical operations leader, IT professor, and builder of practical software solutions.
 
-## What I do
-- Lead operations and technology initiatives
-- Teach IT and software-related topics
-- Build tools that improve workflows, productivity, and learning experiences
-- Explore practical applications of Python, web development, and AI-assisted workflows
+I work at the intersection of operations, education, and technology. My focus is on building tools, improving processes, and applying software in ways that create measurable value for teams, students, and real-world projects.
 
-## Current focus
-- Python for automation and data-driven processes
-- Web applications with Django, PostgreSQL, and modern frontend tools
-- Educational and productivity platforms
-- Process improvement through technology and continuous learning
+## Professional focus
+- Technical operations and process improvement
+- Software development with Python and web technologies
+- Automation for productivity and decision support
+- Teaching and mentoring in IT and software development
 
-## Selected projects
-- Tools related to running achievements and personal progress
-- Workshop/project around productivity with technology
-- Learning-oriented examples for teaching and mentoring
-- Additional experiments in web apps, mobile apps, and developer tooling
+## Areas of interest
+- Python automation
+- Django and PostgreSQL applications
+- Workflow optimization
+- Educational technology
+- AI-assisted productivity
 
-## Tech I use
-Python · Django · PostgreSQL · JavaScript · HTML · CSS · Kotlin
+## Featured work
+Here you will find a mix of practical software projects, teaching resources, experiments, and tools designed to solve real problems.
 
-## Beyond code
-I enjoy teaching, building useful products, running, and sharing ideas about technology and continuous improvement.
+## Technologies
+Python, Django, PostgreSQL, JavaScript, HTML, CSS and Kotlin
 
-## Find me online
-- Blog: [carlossanchezrivera.wordpress.com](https://carlossanchezrivera.wordpress.com/)
-- LinkedIn: [linkedin.com/in/iscenigmax](https://www.linkedin.com/in/iscenigmax/)
+## Outside of work
+I enjoy running, coffee, learning, and building things that are useful.
