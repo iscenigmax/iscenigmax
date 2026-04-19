@@ -18,7 +18,7 @@ I work at the intersection of operations, education, and software development, b
 - AI-assisted productivity
 
 ## Featured work
-Here you will find a mix of practical software projects, teaching resources, experiments, and tools designed to solve real problems.
+This profile brings together software projects, teaching resources, and practical tools focused on automation, productivity, and real-world problem solving.
 
 ## Technologies
 Python, Django, PostgreSQL, JavaScript, HTML, CSS and Kotlin
